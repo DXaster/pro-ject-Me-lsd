@@ -1,16 +1,17 @@
 # pro-ject-Me-lsd
-pro-ject-Me-lsd
-    $__( List of Useful Info.
-<>RAW<>
+pro-ject-Me-lsd <BR>
+    <BR>$__( List of Useful Info.
+<BR>
+Raw
 <!DOCTYPE html>
 <html>
   <body>
 
-<h1><>RAW<></h1>
+<h1>What Ever</h1>
 
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
+Click me:Raw</button>
 
 <p id="demo"></p>
 
