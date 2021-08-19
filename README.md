@@ -1,8 +1,10 @@
 # pro-ject-Me-lsd
 pro-ject-Me-lsd <BR>
-    <BR>$__( List of Useful Info.
 <BR>
-Raw
+$__( List of Useful Info.
+<BR>
+Raw-Text
+
 <!DOCTYPE html>
 <html>
   <body>
