@@ -1,20 +1,12 @@
 # pro-ject-Me-lsd
 pro-ject-Me-lsd
-<html>
-    <body>
-
-$__( List of Useful Info
-  
-
-
-
-  </body
-</html>
+    $__( List of Useful Info.
+<>RAW<>
 <!DOCTYPE html>
 <html>
-<body>
+  <body>
 
-<h1>My First JavaScript</h1>
+<h1><>RAW<></h1>
 
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
@@ -22,5 +14,5 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 
-</body>
+  </body>
 </html> 
