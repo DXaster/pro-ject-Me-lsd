@@ -2,17 +2,11 @@
 pro-ject-Me-lsd
 <html>
     <body>
-List of Useful Info
+
+$__( List of Useful Info
   
 
 
 
   </body
 </html>
-  
-  
-  
-  
-  
-  
-  
